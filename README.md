@@ -18,12 +18,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Splash Screen](./assets/SplashScreen.png)
-![Welcome](./assets/WelcomePage.png)
-![Register](./assets/RegisterPage.png)
-![RegisterSuccess](./assets/RegisterSuccess.png)
-![Login](./assets/LoginPage.png)
-![ForgotPassword](./assets/ForgotPassword.png)
-![OtpVerification](./assets/OtpVerification.png)
-![PasswordReset](./assets/PasswordReset.png)
-![PasswordSuccess](./assets/PasswordSuccess.png)
+![SplashScreen](./assets/Screenshots/SplashScreen.png)
+![WelcomePage](./assets/Screenshots/WelcomePage.png)
+![RegisterPage](./assets/Screenshots/RegisterPage.png)
+![RegisterSuccess](./assets/Screenshots/RegisterSuccess.png)
+![LoginPage](./assets/Screenshots/LoginPage.png)
+![ForgotPassword](./assets/Screenshots/ForgotPassword.png)
+![OtpVerification](./assets/Screenshots/OtpVerification.png)
+![PasswordReset](./assets/Screenshots/PasswordReset.png)
+![PasswordSuccess](./assets/Screenshots/PasswordSuccess.png)

@@ -1,6 +1,6 @@
 # auth_page
 
-A new Flutter project.
+Logoipsum Authentication pages
 
 ## Getting Started
 
